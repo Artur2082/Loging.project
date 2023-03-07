@@ -1,4 +1,4 @@
-package Working_With_IO;
+package org.example.Loging.project;
 
 import java.util.logging.Formatter;
 import java.util.logging.SimpleFormatter;

@@ -1,4 +1,4 @@
-package Working_With_IO;
+package org.example.Loging.project;
 
 import java.io.IOException;
 
